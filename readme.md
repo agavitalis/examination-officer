@@ -12,11 +12,14 @@ This System is live on https://examination-officer.herokuapp.com/
 To access this system, Login with the following details
 
 # Exam Officer: 
-Username: admin101@admin.com
-Password: admin@admin.com
+Username: admin101
+Password: admin101
 
 # Lecturer: 
-Username: lecturer101@lecturer.com
-Password: lecturer@lecturer.com
+Username: lecturer101
+Password: lecturer101
 
+# Student:
+Username: student101
+Password: student101
 
